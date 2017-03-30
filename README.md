@@ -15,11 +15,11 @@ as most of us know.
 
 ### Prevention of infection is simple in four steps,
 1. Cleaning and making the drive eligible by formatting it to NTFS
-2. Making the root directory unwritable
-   > *Preventing file/folder corruption as what shortcut viruses do on root directory files/folders*
-3. Injecting fake (thus safe) shortcut virus files on drive's root directory
+2. Injecting fake (thus safe) shortcut virus files on drive's root directory
    > *As how vaccines inject dead/less harmful viruses to provide immunity*
-3. Preventing modification on those fake viruses through NTFS Permissions
+3. Making the root directory unwritable
+   > *Preventing file/folder corruption as what shortcut viruses do on root directory files/folders*
+4. Preventing modification on those fake viruses through NTFS Permissions
 
 ## GOO-ee Design
 Since it targets legacy shortcut viruses, I themed it back to good old Visual Basic 6 days.
