@@ -1,0 +1,62 @@
+[Project]
+FileName=Flash Drive VACCINE v1.0.0 alpha.dev
+Name=Flash Drive VACCINE v1.0.0 alpha
+Type=1
+Ver=2
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Flash_Drive_VACCINE_v1.0.0_alpha_private.rc
+ResourceIncludes="F:\Documents\Random Files\My C samples\Flash Drive VACCINE\v1.0.0 alpha\icons";"F:\Documents\Random Files\My C samples\Flash Drive VACCINE\v1.0.0 alpha"
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=
+IsCpp=1
+Icon=Flash Drive VACCINE v1.0.0 alpha.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Flash Drive VACCINE v1.0.0 alpha.exe
+HostApplication=
+UseCustomMakefile=0
+CustomMakefile=
+CommandLine=
+Folders=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=6
+CompilerSettings=000e10c1c0000000000000000
+UnitCount=1
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=0
+LanguageID=1033
+CharsetID=1252
+CompanyName=
+FileVersion=1.0.0.0
+FileDescription=Vaccinates your flash drive against autorun, recycler, and shortcut virus
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=Flash Drive VACCINE
+ProductVersion=1.0.0.0
+AutoIncBuildNr=0
+SyncProduct=1
+
+[Unit1]
+FileName=Flash Drive VACCINE v1.0.0 alpha.cpp
+CompileCpp=1
+Folder=Flash Drive VACCINE v1.0.0 alpha
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
