@@ -1,5 +1,5 @@
 # Flash Drive Vaccine
-A flash drive vaccine against classic *shortcut viruses.*
+A flash drive vaccine against classic *shortcut viruses.* 'Coz prevention is always better than cure.
 
 | Author | Raymel Francisco |
 |-|-|
@@ -39,5 +39,5 @@ Releases are set to rollout in the next few days. Stay tuned!
 
 ## License
 
-This project is licenses under GNU Lesser General Public License v3.0 (LGPL-3.0).
+This project is licensed under GNU Lesser General Public License v3.0 (LGPL-3.0).
 
