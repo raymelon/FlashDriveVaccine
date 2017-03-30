@@ -13,7 +13,7 @@ These are commonly resolved using `attrib` command, but there's a saying,
                 
 as most of us know.
 
-Prevention of infection is simple in four steps,
+### Prevention of infection is simple in four steps,
 1. Cleaning and making the drive eligible by formatting it to NTFS
 2. Making the root directory unwritable
    > *Preventing file/folder corruption as what shortcut viruses do on root directory files/folders*
@@ -30,7 +30,7 @@ Releases are set to rollout in the next few days. Stay tuned!
 
 ## Built With
 ### Current Version
-- C and C++ with Visual Studio 2015
+- C/C++ with Visual Studio 2015
 
 ### Earlier Versions
 - Batch
