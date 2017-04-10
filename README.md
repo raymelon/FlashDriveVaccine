@@ -1,4 +1,4 @@
-# Flash Drive Vaccine
+# Flash Drive Vaccine [![forthebadge](http://forthebadge.com/images/badges/for-you.svg)](http://forthebadge.com)
 A flash drive vaccine against classic *shortcut viruses.* 'Coz prevention is always better than cure.
 
 | Author | Raymel Francisco |
@@ -11,9 +11,12 @@ the culprit on hiding your precious files and folders embedded on your pendrive'
 These are commonly resolved using `attrib` command, but there's a saying,
 > ***An ounce of prevention is worth a pound of cure.***
                 
-as most of us know.
+as most of us know. [![forthebadge](http://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](http://forthebadge.com)
 
 ### Prevention of infection is simple in four steps,
+
+[![forthebadge](http://forthebadge.com/images/badges/built-with-grammas-recipe.svg)](http://forthebadge.com)
+
 1. Cleaning and making the drive eligible by formatting it to NTFS
 2. Injecting fake (thus safe) shortcut virus files on drive's root directory
    > *As how vaccines inject dead/less harmful viruses to provide immunity*
