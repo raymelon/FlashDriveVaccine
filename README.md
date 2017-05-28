@@ -24,7 +24,7 @@ as most of us know. [![forthebadge](http://forthebadge.com/images/badges/its-not
    > *Preventing file/folder corruption as what shortcut viruses do on root directory files/folders*
 4. Preventing modification on those fake viruses through NTFS Permissions
 
-## GOO-ee Design
+## GOO-ee Design [![forthebadge](http://forthebadge.com/images/badges/uses-badges.svg)](http://forthebadge.com)
 Since it targets legacy shortcut viruses, I themed it back to good old Visual Basic 6 days.
 
 ## Releases
