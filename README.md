@@ -1,4 +1,4 @@
-# Flash Drive Vaccine [![forthebadge](http://forthebadge.com/images/badges/for-you.svg)](http://forthebadge.com)
+# Flash Drive Vaccine [![forthebadge](http://forthebadge.com/images/badges/fo-real.svg)](http://forthebadge.com)
 A flash drive vaccine against classic *shortcut viruses.* 'Coz prevention is always better than cure.
 
 | Author | Raymel Francisco |
@@ -6,7 +6,7 @@ A flash drive vaccine against classic *shortcut viruses.* 'Coz prevention is alw
 
 ## Overview
 Using your pendrive especially on unsecured systems poses risk in getting the classic *shortcut virus* —
-the culprit on hiding your precious files and folders embedded on your pendrive's root.
+the culprit on hiding your precious files and folders embedded on your pendrive's root. [![forthebadge](http://forthebadge.com/images/badges/thats-how-they-get-you.svg)](http://forthebadge.com)
 
 These are commonly resolved using `attrib` command, but there's a saying,
 > ***An ounce of prevention is worth a pound of cure.***
@@ -24,10 +24,12 @@ as most of us know. [![forthebadge](http://forthebadge.com/images/badges/its-not
    > *Preventing file/folder corruption as what shortcut viruses do on root directory files/folders*
 4. Preventing modification on those fake viruses through NTFS Permissions
 
+[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
+
 ## GOO-ee Design [![forthebadge](http://forthebadge.com/images/badges/compatibility-betamax.svg)](http://forthebadge.com)
 Since it targets legacy shortcut viruses, I themed it back to good old Visual Basic 6 days.
 
-## Releases
+## Releases [![forthebadge](http://forthebadge.com/images/badges/for-you.svg)](http://forthebadge.com)
 
 Releases are set to rollout in the next few days. Stay tuned!
 
